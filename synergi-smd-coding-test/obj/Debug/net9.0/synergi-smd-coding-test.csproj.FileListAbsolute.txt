@@ -1,0 +1,14 @@
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/bin/Debug/net9.0/synergi-smd-coding-test
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/bin/Debug/net9.0/synergi-smd-coding-test.deps.json
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/bin/Debug/net9.0/synergi-smd-coding-test.runtimeconfig.json
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/bin/Debug/net9.0/synergi-smd-coding-test.dll
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/bin/Debug/net9.0/synergi-smd-coding-test.pdb
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.AssemblyInfoInputs.cache
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.AssemblyInfo.cs
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.csproj.CoreCompileInputs.cache
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.dll
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/refint/synergi-smd-coding-test.dll
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.pdb
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.genruntimeconfig.cache
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/ref/synergi-smd-coding-test.dll
