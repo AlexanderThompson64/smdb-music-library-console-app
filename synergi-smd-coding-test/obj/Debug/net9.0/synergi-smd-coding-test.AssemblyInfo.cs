@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("synergi-smd-coding-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04d20e5aff02f2cb0ca7d2034272c725d3b07349")]
 [assembly: System.Reflection.AssemblyProductAttribute("synergi-smd-coding-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("synergi-smd-coding-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@
 /Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.pdb
 /Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.genruntimeconfig.cache
 /Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/ref/synergi-smd-coding-test.dll
+/Users/at100600/Documents/Projects/C# Console Apps/synergi-smd-coding-test/synergi-smd-coding-test/obj/Debug/net9.0/synergi-smd-coding-test.sourcelink.json
