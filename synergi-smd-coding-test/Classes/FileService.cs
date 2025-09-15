@@ -17,7 +17,9 @@ public class FileService : IFileService
 
         // Build the text content
         var sb = new StringBuilder();
-        sb.AppendLine("SMDb Songs List");
+        string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+        sb.AppendLine("SMDb Songs List - " + timestamp);
+        sb.AppendLine();
         sb.AppendLine("---------------");
         foreach (var song in songs)
         {
