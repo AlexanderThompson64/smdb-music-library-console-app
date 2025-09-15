@@ -1,4 +1,5 @@
 using synergi_smd_coding_test.Interfaces;
+
 namespace synergi_smd_coding_test.Classes;
 
 public class ConsoleUI
@@ -73,14 +74,17 @@ public class ConsoleUI
             WaitForKeyPress();
             return;
         }
+
         await DisplayAndSaveSongs(_musicService.GetSongsByGenreAsync(genre));
     }
 
     private async Task DisplayAndSaveSongs(Task<List<Song>> songsTask)
     {
+        string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
         try
         {
             List<Song> songs = await songsTask;
+
 
             if (songs.Count == 0)
             {
@@ -89,7 +93,7 @@ public class ConsoleUI
                 return;
             }
 
-            Console.WriteLine("\nSongs:");
+            Console.WriteLine("\nSongs - " + timestamp);
             Console.WriteLine("------");
             songs.ForEach(s => Console.WriteLine(s));
 
